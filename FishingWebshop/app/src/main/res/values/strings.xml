@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FishingWebshop</string>
+    <string name="image_descriptionReg">ToRegButton</string>
+    <string name="image_descriptionLog">ToLogButton</string>
+
+    <string name="first_step">Első lépések</string>
+    <string name="second_step">Véglegesítés</string>
+
+    <string name="first_slide">Válaszd ki a kedvenc termékedet!</string>
+    <string name="second_slide">Rendelj házhoz!</string>
+    <string name="third_slide">Megfelelő kiszolgálás</string>
+
+    <string name="description">A webshopunkban könnyedén kiválaszthatod kedvenc termékedet.</string>
+    <string name="description2">Miután kiválasztottad kedvenc termékedet, pár koppintással már házhoz is rendelheted! 2 munkanapon belűl mindent kiszállítunk, és garanciát is vállalunk!</string>
+    <string name="description3">Cégünk számára a legfontosabb a vásárlóink elégedettsége.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

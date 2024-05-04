@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#7C8FAC</color>
+    <color name="blue">#5D87FF</color>
+    <color name="green">#17DEB9</color>
+    <color name="orange">#EFA726</color>
+    <color name="whitegray">#D6D7D7</color>
+    <color name="backgroundColor">#202938</color>
+    <color name="testcolorKEK">#18202C</color>
+    <color name="grayBack">#2C2C2E</color>
+    <color name="grayItemk">#262628</color>
+    <color name="grayItemkBack">#2C2D2E</color>
+
+</resources>
